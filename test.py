@@ -12,7 +12,7 @@ Toggles = {'Domain':
             {'Master': False,
              'VirusTotal': True,
              'SubBrute': False,
-             'BufferOverrun': True},
+             'BufferOverrun': False},
            'Email':
             {'Master': True,
              'Debounce':False}
