@@ -1,0 +1,2105 @@
+Domain Report for nottingham.ac.uk
+
+Web rating
+harmless: 72
+malicious: 0
+suspicious: 0
+undetected: 14
+timeout: 0
+
+Past DNS Records
+adobe-idp-site-verification=7f2ebc573bc1769a828f63ec966bd01a1cd05ccf9cc64fb55d97874f5a23589e
+extdns2.warwick.ac.uk
+SERIALUP
+185.18.139.133
+uidappmx01.nottingham.ac.uk
+google-site-verification=L5AVOihugr8sVP2OrvjUPTQBk8cBP9w_FPp82WCtl_E
+v=spf1 ip4:72.5.51.49 ip4:104.47.6.36 ip4:80.75.64.24 ip4:40.92.0.0/15 ip4:51.4.72.0/24 ip4:51.5.72.0/24 ip4:51.5.80.0/27 ip4:51.4.80.0/27 ip4:82.201.24.52 ip4:54.229.2.165 ip4:212.53.87.53 ip4:194.73.8.7/32 ip4:54.240.0.0/18 ip4:104.47.11.202 ip4:89.248.
+extdns1.warwick.ac.uk
+uidapdns01.nottingham.ac.uk
+CD7F2D11-A9B7-4E5E-BF97-117FD5A2B475
+uidappmx02.nottingham.ac.uk
+QuoVadis=cd924184-d16f-4388-a06f-60841f6bfc43
+uidapdns02.nottingham.ac.uk
+1Q6+0cep9R4exJx3RGfB8ObBpeO/kDtYsZYD8jmj1cupaJIDz8KUExk/Qsl2dqgt95g0lyRDLCa6102bJk+lFA==
+adobe-idp-site-verification=def3d1d831162020848a32206541217c00bc2dfbc6199ce745dbbca7033628ef
+uidappmx05.nottingham.ac.uk
+MS=ms55552287
+access-domain-verification=5c30dffba43dd9ca58fedebac54fb7913da919b1a1de9d7ab834311f7d5b1abf
+uidappmx03.nottingham.ac.uk
+MS=ms57537667
+uidappmx06.nottingham.ac.uk
+apple-domain-verification=xbJn3kEmmhW9Ou4k
+uidappmx04.nottingham.ac.uk
+uidapdns01.nottingham.ac.uk
+
+IPv4 Certificates
+Organisation: The University of Nottingham
+IP: 128.243.46.230
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.226.170
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.43.2
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.226.73
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.43.124
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.43.125
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.204.155
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.44.26
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.43.126
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.226.236
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.204.156
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.43.127
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.43.128
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.43.129
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.226.169
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.46.230
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.226.170
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.43.2
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.226.73
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.43.124
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.43.125
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.204.155
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.44.26
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.43.126
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.226.236
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.204.156
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.43.127
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.43.128
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.43.129
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.226.169
+SHA_256: 9c92a46c3f6c9719b58d033bec4ab9fa2d8986d7a4f2f6d2ffd920c004a195ed
+CN: 7542f48cbe15b69224be24ec9915cb70
+
+Organisation: The University of Nottingham
+IP: 128.243.204.52
+SHA_256: ce8dc855370ae433f028110fb013d8898ccf7a3caaebd72f37246c0b1a02cec4
+CN: 7de00ca3c4bf15413cf645fbd3fe1721
+
+Organisation: The University of Nottingham
+IP: 128.243.204.151
+SHA_256: abcb32ea556a635a8ed863efc89777687c3f896a75d55798ba3c245b3cc4e112
+CN: 31545d3c2211f114f4c03d792b348872
+
+Organisation: 
+IP: 128.243.45.116
+SHA_256: 785284adf84bbc15af2a1cea3d8a2355b4e9396cab69868c24d483e596bd9622
+CN: e5852865d0f80a26a3bca6cbcc4803d8
+
+Organisation: The University of Nottingham
+IP: 52.136.254.45
+SHA_256: 033d5f646b9a8ac74de1b6e9117a563b511fd8cde2092b6333c72ddc511bf11f
+CN: ae27444bff11031c90a4d362073cc5e8
+
+Organisation: The University of Nottingham
+IP: 52.136.254.45
+SHA_256: 033d5f646b9a8ac74de1b6e9117a563b511fd8cde2092b6333c72ddc511bf11f
+CN: ae27444bff11031c90a4d362073cc5e8
+
+Organisation: 
+IP: 128.243.204.51
+SHA_256: f339708bd29ea14e1d0afa248507a002e8a93e206071745cde6acdd3edb60fc4
+CN: 475dd86717d937d8a8a03cad744e8bee9fa
+
+Organisation: The University of Nottingham
+IP: 128.243.42.8
+SHA_256: fe4ff4859c9ceded407c8950f81c043637525c7af7385b7e868eeea16f6b2d93
+CN: 3fcd0e882b1ba0307c3d032035bfcd10
+
+Organisation: The University of Nottingham
+IP: 128.243.204.114
+SHA_256: aed3ed3a2c496a3fd3cb1c78345a94fe31e2c82057141918cbee6a360a22061a
+CN: 5a648674dcc0ea581b0f6c84951c9115
+
+Organisation: The University of Nottingham
+IP: 128.243.204.126
+SHA_256: 209666bac92b4e0075e576ae0ea6f9b88eb92729fe8b99b04d60be5c0a2a8e2b
+CN: a7faa299da65ba65df5f64d2801feaf2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.8
+SHA_256: 36a64d6c1e9e1a424f0c16e26c2f5db3ae43b475a7d80d450728bc21756cb53f
+CN: b2b347674135d2989d06f5e98fabb59a
+
+Organisation: The University of Nottingham
+IP: 128.243.204.53
+SHA_256: 2ab06168aef01799ffa0fdf2aaf93a8d5e4d7eee35e3c57f5115dccee9724cd1
+CN: f051f88a03c5e71450765ebf7bf899b9
+
+Organisation: The University of Nottingham
+IP: 128.243.204.147
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.148
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.149
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.147
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.148
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.149
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.151
+SHA_256: abcb32ea556a635a8ed863efc89777687c3f896a75d55798ba3c245b3cc4e112
+CN: 31545d3c2211f114f4c03d792b348872
+
+Organisation: The University of Nottingham
+IP: 128.243.204.2
+SHA_256: 0c5f94068dffcdc84d4764dd24051add6eed5bd3fc97fd28f31f152930c151f6
+CN: b01220eeb86066a290a6ad3324142323
+
+Organisation: The University of Nottingham
+IP: 128.243.204.126
+SHA_256: 209666bac92b4e0075e576ae0ea6f9b88eb92729fe8b99b04d60be5c0a2a8e2b
+CN: a7faa299da65ba65df5f64d2801feaf2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.114
+SHA_256: aed3ed3a2c496a3fd3cb1c78345a94fe31e2c82057141918cbee6a360a22061a
+CN: 5a648674dcc0ea581b0f6c84951c9115
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.204.147
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.148
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.149
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.147
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.148
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.149
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.42.30
+SHA_256: a8b72840758face3a1cf01c91ef0ff7dc711215764ba9fc2bd04cf49bbf4269a
+CN: 85078efb49ad454e61ab0ddf13ed28b2
+
+Organisation: The University of Nottingham
+IP: 128.243.45.212
+SHA_256: a8b72840758face3a1cf01c91ef0ff7dc711215764ba9fc2bd04cf49bbf4269a
+CN: 85078efb49ad454e61ab0ddf13ed28b2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.114
+SHA_256: aed3ed3a2c496a3fd3cb1c78345a94fe31e2c82057141918cbee6a360a22061a
+CN: 5a648674dcc0ea581b0f6c84951c9115
+
+Organisation: 
+IP: 20.108.252.131
+SHA_256: e573c3df6a7f6937937fcd114519d21e23287294992271974066066119e389b3
+CN: 3d7968da90c2afd5308ee966e7b2ed80e56
+
+Organisation: 
+IP: 20.108.252.131
+SHA_256: e573c3df6a7f6937937fcd114519d21e23287294992271974066066119e389b3
+CN: 3d7968da90c2afd5308ee966e7b2ed80e56
+
+Organisation: The University of Nottingham
+IP: 128.243.204.147
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.148
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.149
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.147
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.148
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.149
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.147
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.148
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.149
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.42.30
+SHA_256: a8b72840758face3a1cf01c91ef0ff7dc711215764ba9fc2bd04cf49bbf4269a
+CN: 85078efb49ad454e61ab0ddf13ed28b2
+
+Organisation: The University of Nottingham
+IP: 128.243.45.212
+SHA_256: a8b72840758face3a1cf01c91ef0ff7dc711215764ba9fc2bd04cf49bbf4269a
+CN: 85078efb49ad454e61ab0ddf13ed28b2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.147
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.148
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.149
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.147
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.148
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.149
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.42.30
+SHA_256: a8b72840758face3a1cf01c91ef0ff7dc711215764ba9fc2bd04cf49bbf4269a
+CN: 85078efb49ad454e61ab0ddf13ed28b2
+
+Organisation: The University of Nottingham
+IP: 128.243.45.212
+SHA_256: a8b72840758face3a1cf01c91ef0ff7dc711215764ba9fc2bd04cf49bbf4269a
+CN: 85078efb49ad454e61ab0ddf13ed28b2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.147
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.148
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.149
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.147
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.148
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.149
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.147
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.148
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.149
+SHA_256: 9abb1bc2078da002fa3fcb7884d512561f06eaa57a389209ba9de9de9938f37d
+CN: 70a3affebec692a59fe2cd5065e711f8
+
+Organisation: The University of Nottingham
+IP: 128.243.42.30
+SHA_256: a8b72840758face3a1cf01c91ef0ff7dc711215764ba9fc2bd04cf49bbf4269a
+CN: 85078efb49ad454e61ab0ddf13ed28b2
+
+Organisation: The University of Nottingham
+IP: 128.243.45.212
+SHA_256: a8b72840758face3a1cf01c91ef0ff7dc711215764ba9fc2bd04cf49bbf4269a
+CN: 85078efb49ad454e61ab0ddf13ed28b2
+
+Organisation: The University of Nottingham
+IP: 128.243.42.30
+SHA_256: a8b72840758face3a1cf01c91ef0ff7dc711215764ba9fc2bd04cf49bbf4269a
+CN: 85078efb49ad454e61ab0ddf13ed28b2
+
+Organisation: The University of Nottingham
+IP: 128.243.45.212
+SHA_256: a8b72840758face3a1cf01c91ef0ff7dc711215764ba9fc2bd04cf49bbf4269a
+CN: 85078efb49ad454e61ab0ddf13ed28b2
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: The University of Nottingham
+IP: 128.243.204.151
+SHA_256: abcb32ea556a635a8ed863efc89777687c3f896a75d55798ba3c245b3cc4e112
+CN: 31545d3c2211f114f4c03d792b348872
+
+Organisation: The University of Nottingham
+IP: 128.243.204.53
+SHA_256: 2ab06168aef01799ffa0fdf2aaf93a8d5e4d7eee35e3c57f5115dccee9724cd1
+CN: f051f88a03c5e71450765ebf7bf899b9
+
+Organisation: The University of Nottingham
+IP: 128.243.204.151
+SHA_256: abcb32ea556a635a8ed863efc89777687c3f896a75d55798ba3c245b3cc4e112
+CN: 31545d3c2211f114f4c03d792b348872
+
+Organisation: The University of Nottingham
+IP: 128.243.46.94
+SHA_256: 7d714672c737fc57c1f37ceea34183cf81e8a53f2e33a8c0b3845e9b907645ce
+CN: f491865e06a6665e9dfa05bd87813496
+
+Organisation: The University of Nottingham
+IP: 128.243.46.94
+SHA_256: 7d714672c737fc57c1f37ceea34183cf81e8a53f2e33a8c0b3845e9b907645ce
+CN: f491865e06a6665e9dfa05bd87813496
+
+Organisation: The University of Nottingham
+IP: 128.243.204.74
+SHA_256: 118b8156a56152754c850668af5aacd5f5e5e36ff9554127a988bfb85e36f3a4
+CN: 5649c787fb048b1329333cf74ad58cc2
+
+Organisation: The University of Nottingham
+IP: 128.243.226.104
+SHA_256: b1d68a8a4b040e22a3c7df772735d0283e218c81d382dfb903c4ff069355a06a
+CN: 6b3fcb1d8ad130437fd57d0f35222c96
+
+Organisation: The University of Nottingham
+IP: 128.243.226.105
+SHA_256: b1d68a8a4b040e22a3c7df772735d0283e218c81d382dfb903c4ff069355a06a
+CN: 6b3fcb1d8ad130437fd57d0f35222c96
+
+Organisation: The University of Nottingham
+IP: 125.111.163.209
+SHA_256: b1d68a8a4b040e22a3c7df772735d0283e218c81d382dfb903c4ff069355a06a
+CN: 6b3fcb1d8ad130437fd57d0f35222c96
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: The University of Nottingham
+IP: 128.243.204.151
+SHA_256: abcb32ea556a635a8ed863efc89777687c3f896a75d55798ba3c245b3cc4e112
+CN: 31545d3c2211f114f4c03d792b348872
+
+Organisation: The University of Nottingham
+IP: 23.97.210.86
+SHA_256: d50edb53e47b567e705b94c31818a355f3e1b48d34fe2fe72fd032e8a24b198c
+CN: d3f09b9a451f7175273d8f65c855b135
+
+Organisation: The University of Nottingham
+IP: 23.97.210.86
+SHA_256: d50edb53e47b567e705b94c31818a355f3e1b48d34fe2fe72fd032e8a24b198c
+CN: d3f09b9a451f7175273d8f65c855b135
+
+Organisation: The University of Nottingham
+IP: 128.243.204.123
+SHA_256: db9ae961ba8fafad6b5befbc7eca99052db4a7aa21db15494e962611804e3fa5
+CN: c24cf4537bd262500a5d66698fc7d715
+
+Organisation: The University of Nottingham
+IP: 128.243.226.138
+SHA_256: 16c56370d764f3f20e4f7e4d55845e425d896f5ab28926e3c7cb0337ada37afc
+CN: 2ea421aba30d626a0fd55b0612e8ad7138af1f41
+
+Organisation: The University of Nottingham
+IP: 128.243.204.153
+SHA_256: b83560a4c603c8b3d1b2354a0548c99c1798e6c4507765a0c3adb8cf4b138963
+CN: 3198ee3b59715cd329128b7469b62270
+
+Organisation: The University of Nottingham
+IP: 128.243.42.50
+SHA_256: 2cb2e05635381d6e51cd8ba2a1254064c31461d4c89e916fa7223dc3d6464129
+CN: ec1e38c0e06243c714b71773b26aa1b7
+
+Organisation: The University of Nottingham
+IP: 128.243.42.50
+SHA_256: 2cb2e05635381d6e51cd8ba2a1254064c31461d4c89e916fa7223dc3d6464129
+CN: ec1e38c0e06243c714b71773b26aa1b7
+
+Organisation: The University of Nottingham
+IP: 128.243.44.16
+SHA_256: 7655bcacd3769f5107f11953c0561f40e8e1810e983529db29a6b1e116d5fd31
+CN: afd15d93f35bee8c520cc844d0d6dd24
+
+Organisation: The University of Nottingham
+IP: 128.243.204.81
+SHA_256: 0309418d1c228bc1cf0b5901cca543848a7dbf80fe9ea237709e1de1094d71c7
+CN: 8c33d938de22d77d58d25590b2cffa63
+
+Organisation: The University of Nottingham
+IP: 128.243.45.150
+SHA_256: aaaa19e2cb9d71f31884ad68cefb9e6421ce3736e43b9ae5fdd93e463584b0f3
+CN: 8891365f46a21bb5663dbf1357abd726
+
+Organisation: The University of Nottingham
+IP: 128.243.45.150
+SHA_256: aaaa19e2cb9d71f31884ad68cefb9e6421ce3736e43b9ae5fdd93e463584b0f3
+CN: 8891365f46a21bb5663dbf1357abd726
+
+Organisation: The University of Nottingham
+IP: 128.243.45.163
+SHA_256: 37f0e4fa756bc446eafb2178052de3b70bb0b8aad2f01747f49e1dbf4004ba99
+CN: 4aefbb543fc87a43c2a093e9aba76e32
+
+Organisation: The University of Nottingham
+IP: 128.243.45.163
+SHA_256: 37f0e4fa756bc446eafb2178052de3b70bb0b8aad2f01747f49e1dbf4004ba99
+CN: 4aefbb543fc87a43c2a093e9aba76e32
+
+Organisation: The University of Nottingham
+IP: 128.243.204.49
+SHA_256: dffe947d61bb4c3cb9bf4ea7cf68595783e6089aa9e25105366440e87285ec07
+CN: e11037c55cdcca4ce0cfd608888b8684
+
+Organisation: The University of Nottingham
+IP: 128.243.204.49
+SHA_256: dffe947d61bb4c3cb9bf4ea7cf68595783e6089aa9e25105366440e87285ec07
+CN: e11037c55cdcca4ce0cfd608888b8684
+
+Organisation: The University of Nottingham
+IP: 128.243.226.104
+SHA_256: b1d68a8a4b040e22a3c7df772735d0283e218c81d382dfb903c4ff069355a06a
+CN: 6b3fcb1d8ad130437fd57d0f35222c96
+
+Organisation: The University of Nottingham
+IP: 128.243.226.105
+SHA_256: b1d68a8a4b040e22a3c7df772735d0283e218c81d382dfb903c4ff069355a06a
+CN: 6b3fcb1d8ad130437fd57d0f35222c96
+
+Organisation: The University of Nottingham
+IP: 125.111.163.209
+SHA_256: b1d68a8a4b040e22a3c7df772735d0283e218c81d382dfb903c4ff069355a06a
+CN: 6b3fcb1d8ad130437fd57d0f35222c96
+
+Organisation: The University of Nottingham
+IP: 128.243.129.100
+SHA_256: 58989b0559e6f110de4b58a96dbe55e36323c2b67422d98795cd85375d445fa0
+CN: e04714254d28f9bf230ccff566e37cb6
+
+Organisation: The University of Nottingham
+IP: 128.243.129.101
+SHA_256: 58989b0559e6f110de4b58a96dbe55e36323c2b67422d98795cd85375d445fa0
+CN: e04714254d28f9bf230ccff566e37cb6
+
+Organisation: The University of Nottingham
+IP: 128.243.129.116
+SHA_256: 319329ef4dc8ed5dfc05ce9105b5af90ee0266704ed248c9ed9ec13923721459
+CN: d1232cda4ca13ac5d4e7ae637a01193f
+
+Organisation: The University of Nottingham
+IP: 128.243.129.117
+SHA_256: 319329ef4dc8ed5dfc05ce9105b5af90ee0266704ed248c9ed9ec13923721459
+CN: d1232cda4ca13ac5d4e7ae637a01193f
+
+Organisation: 
+IP: 128.243.204.38
+SHA_256: 378fa0cafec5f860b09e35b838a8a6f5f16500bc706cbb7190cd44835bfef2cd
+CN: 7a5e975a96d581ba44dd0e11adfb77ae
+
+Organisation: 
+IP: 128.243.138.25
+SHA_256: 61b905ee4c8c987d4eb34b8195d602f6693cb38ba87650ed0ca9ab4edb9f000c
+CN: 1f5ba1dd05f9bca740842ecdc16d48c6
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.129.100
+SHA_256: 58989b0559e6f110de4b58a96dbe55e36323c2b67422d98795cd85375d445fa0
+CN: e04714254d28f9bf230ccff566e37cb6
+
+Organisation: The University of Nottingham
+IP: 128.243.129.101
+SHA_256: 58989b0559e6f110de4b58a96dbe55e36323c2b67422d98795cd85375d445fa0
+CN: e04714254d28f9bf230ccff566e37cb6
+
+Organisation: The University of Nottingham
+IP: 128.243.129.116
+SHA_256: 319329ef4dc8ed5dfc05ce9105b5af90ee0266704ed248c9ed9ec13923721459
+CN: d1232cda4ca13ac5d4e7ae637a01193f
+
+Organisation: The University of Nottingham
+IP: 128.243.129.117
+SHA_256: 319329ef4dc8ed5dfc05ce9105b5af90ee0266704ed248c9ed9ec13923721459
+CN: d1232cda4ca13ac5d4e7ae637a01193f
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.129.100
+SHA_256: 58989b0559e6f110de4b58a96dbe55e36323c2b67422d98795cd85375d445fa0
+CN: e04714254d28f9bf230ccff566e37cb6
+
+Organisation: The University of Nottingham
+IP: 128.243.129.101
+SHA_256: 58989b0559e6f110de4b58a96dbe55e36323c2b67422d98795cd85375d445fa0
+CN: e04714254d28f9bf230ccff566e37cb6
+
+Organisation: The University of Nottingham
+IP: 128.243.129.116
+SHA_256: 319329ef4dc8ed5dfc05ce9105b5af90ee0266704ed248c9ed9ec13923721459
+CN: d1232cda4ca13ac5d4e7ae637a01193f
+
+Organisation: The University of Nottingham
+IP: 128.243.129.117
+SHA_256: 319329ef4dc8ed5dfc05ce9105b5af90ee0266704ed248c9ed9ec13923721459
+CN: d1232cda4ca13ac5d4e7ae637a01193f
+
+Organisation: The University of Nottingham
+IP: 128.243.204.48
+SHA_256: 8b316806e0733ddccd32edae8b5b28bd9559e00474e03519d252a971d40c6d04
+CN: 3f916c17d702fc110b6b7cd1491c4dec
+
+Organisation: The University of Nottingham
+IP: 128.243.204.48
+SHA_256: 8b316806e0733ddccd32edae8b5b28bd9559e00474e03519d252a971d40c6d04
+CN: 3f916c17d702fc110b6b7cd1491c4dec
+
+Organisation: The University of Nottingham
+IP: 128.243.204.118
+SHA_256: 8b88139a91230e27d3ee870c3f9b67faf273392aef8c7d2537fc141718401ebd
+CN: 7100da0cf9392579a6df060fc67f5ffc
+
+Organisation: The University of Nottingham
+IP: 128.243.204.118
+SHA_256: 8b88139a91230e27d3ee870c3f9b67faf273392aef8c7d2537fc141718401ebd
+CN: 7100da0cf9392579a6df060fc67f5ffc
+
+Organisation: The University of Nottingham
+IP: 128.243.204.31
+SHA_256: 63a2a3773d9bf8f0fb66518bc7ceefdc9130fda2355aea08602889bf70150277
+CN: c7d3f9b073f1bef13930bba57becc132
+
+Organisation: The University of Nottingham
+IP: 128.243.204.31
+SHA_256: 63a2a3773d9bf8f0fb66518bc7ceefdc9130fda2355aea08602889bf70150277
+CN: c7d3f9b073f1bef13930bba57becc132
+
+Organisation: The University of Nottingham
+IP: 128.243.45.35
+SHA_256: 80b4097f65def1d7200a328f1583848664289f23d11a8e9eb9edd9779915a4a3
+CN: 8c6d677dee5fc44ce6c1eda86105da79
+
+Organisation: 
+IP: 128.243.74.2
+SHA_256: df1d4243bb1f1fd76f85f019b3c545e45d9238994e9339773584bead37ff3f5d
+CN: 36964bcb7728c93e2e0632af115737356eb
+
+Organisation: The University of Nottingham
+IP: 128.243.204.69
+SHA_256: 7805b80eeaac58bf5cf9a02d146004d4260afcb3feee14804e7cca6bd2bca933
+CN: bf28b4f030190b28cd0b6ecce1f25b3f
+
+Organisation: The University of Nottingham
+IP: 128.243.204.69
+SHA_256: 7805b80eeaac58bf5cf9a02d146004d4260afcb3feee14804e7cca6bd2bca933
+CN: bf28b4f030190b28cd0b6ecce1f25b3f
+
+Organisation: The University of Nottingham
+IP: 128.243.204.97
+SHA_256: de49b448b4495597b2718af7a2e0822fdb94935f9e57b1644c8cb99c693bbca9
+CN: 468cacf5fcbfeaf18afc6dc4c019f5a2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.74
+SHA_256: 118b8156a56152754c850668af5aacd5f5e5e36ff9554127a988bfb85e36f3a4
+CN: 5649c787fb048b1329333cf74ad58cc2
+
+Organisation: The University of Nottingham
+IP: 128.243.226.103
+SHA_256: 8aef35849e28691248d4f65fd25dddd2384588aae481571da760e2be516265cc
+CN: 114d55dbff2845a980064e4feb10d60d
+
+Organisation: The University of Nottingham
+IP: 125.111.163.208
+SHA_256: 8aef35849e28691248d4f65fd25dddd2384588aae481571da760e2be516265cc
+CN: 114d55dbff2845a980064e4feb10d60d
+
+Organisation: The University of Nottingham
+IP: 128.243.226.103
+SHA_256: 8aef35849e28691248d4f65fd25dddd2384588aae481571da760e2be516265cc
+CN: 114d55dbff2845a980064e4feb10d60d
+
+Organisation: The University of Nottingham
+IP: 125.111.163.208
+SHA_256: 8aef35849e28691248d4f65fd25dddd2384588aae481571da760e2be516265cc
+CN: 114d55dbff2845a980064e4feb10d60d
+
+Organisation: The University of Nottingham
+IP: 128.243.204.77
+SHA_256: 7e169732a8779bf23cda452cc5f2cf481038849e294fe567d6508449cb7389dd
+CN: 98430b3324361e3da491b69f7f3f7cdf
+
+Organisation: The University of Nottingham
+IP: 128.243.204.77
+SHA_256: 7e169732a8779bf23cda452cc5f2cf481038849e294fe567d6508449cb7389dd
+CN: 98430b3324361e3da491b69f7f3f7cdf
+
+Organisation: The University of Nottingham
+IP: 128.243.204.164
+SHA_256: 0d4d82ca8d999aac81bf9b56b43fc87b4b30c33727f3d77b0448f4703b6184ee
+CN: 4172e8b08bb01e5fc1a7b219e6ded2d1
+
+Organisation: The University of Nottingham
+IP: 128.243.204.68
+SHA_256: e7d0d6d5dbc6acb192da8ac74597f9025a7ed5e9828b74c2d807ef0c29e07ee2
+CN: 73085b86eade670c6fbaf0893f930e3dd67231f6
+
+Organisation: The University of Nottingham
+IP: 128.243.204.164
+SHA_256: 0d4d82ca8d999aac81bf9b56b43fc87b4b30c33727f3d77b0448f4703b6184ee
+CN: 4172e8b08bb01e5fc1a7b219e6ded2d1
+
+Organisation: The University of Nottingham
+IP: 128.243.204.91
+SHA_256: d95a3f9473f1aa19b27cc76d131506ebe2cca680d52603fff5daeb91e5900fed
+CN: 60d07500395bfbdc0d344b3d5c2382e1
+
+Organisation: The University of Nottingham
+IP: 128.243.204.91
+SHA_256: d95a3f9473f1aa19b27cc76d131506ebe2cca680d52603fff5daeb91e5900fed
+CN: 60d07500395bfbdc0d344b3d5c2382e1
+
+Organisation: The University of Nottingham
+IP: 128.243.44.34
+SHA_256: 89c3b62c03afa32c37419833fcb0d2eaeff3d88151500290f536b31cea00850d
+CN: 57135f4f24c34f54b3b7d445c268798b
+
+Organisation: The University of Nottingham
+IP: 128.243.44.34
+SHA_256: 89c3b62c03afa32c37419833fcb0d2eaeff3d88151500290f536b31cea00850d
+CN: 57135f4f24c34f54b3b7d445c268798b
+
+Organisation: The University of Nottingham
+IP: 128.243.50.254
+SHA_256: ea888ab169a707bbe17efd79b839be571078b70de056d00220b03768da5d8678
+CN: bef49b40d2d6635e0afd0ed505c1b9e3
+
+Organisation: The University of Nottingham
+IP: 128.243.50.254
+SHA_256: ea888ab169a707bbe17efd79b839be571078b70de056d00220b03768da5d8678
+CN: bef49b40d2d6635e0afd0ed505c1b9e3
+
+Organisation: The University of Nottingham
+IP: 128.243.204.58
+SHA_256: 8f3c27a3f2bca80a3acb5dfb0448fda93079930d932d0265a10588352f76af17
+CN: 359ae578957ebf9cf4610013a34a7f77755474eb
+
+Organisation: The University of Nottingham
+IP: 128.243.204.16
+SHA_256: 8b124536c3992fe72065d3bd2123346cdbbf08d3070560bad40691223da34900
+CN: 97a0dfdd5873fadce4a4d2e9293a33cf
+
+Organisation: The University of Nottingham
+IP: 128.243.204.16
+SHA_256: 8b124536c3992fe72065d3bd2123346cdbbf08d3070560bad40691223da34900
+CN: 97a0dfdd5873fadce4a4d2e9293a33cf
+
+Organisation: The University of Nottingham
+IP: 128.243.204.89
+SHA_256: 9bd366560a95e33c2b4c26476d7b9ec63b2b50bb4bfea69057374f098e31ec4c
+CN: f52c0eb2ec0a1ef374d23abbff4af06e
+
+Organisation: The University of Nottingham
+IP: 128.243.204.89
+SHA_256: 9bd366560a95e33c2b4c26476d7b9ec63b2b50bb4bfea69057374f098e31ec4c
+CN: f52c0eb2ec0a1ef374d23abbff4af06e
+
+Organisation: The University of Nottingham
+IP: 128.243.204.18
+SHA_256: bf03ff3b2e4605c7acf176476cbfb2d3b1e6759b3d8d1bcab62e63d2c428fdba
+CN: b35178b0b2e86972c9a10540c02c4a98
+
+Organisation: The University of Nottingham
+IP: 128.243.204.18
+SHA_256: bf03ff3b2e4605c7acf176476cbfb2d3b1e6759b3d8d1bcab62e63d2c428fdba
+CN: b35178b0b2e86972c9a10540c02c4a98
+
+Organisation: The University of Nottingham
+IP: 128.243.204.8
+SHA_256: 36a64d6c1e9e1a424f0c16e26c2f5db3ae43b475a7d80d450728bc21756cb53f
+CN: b2b347674135d2989d06f5e98fabb59a
+
+Organisation: The University of Nottingham
+IP: 128.243.43.149
+SHA_256: 587b1bc41a1ec4ddce5c947092dddfb021283a441fd765a6ba9dc41952c5465a
+CN: 938a985e4eae7e2da4fa8824783f65c6
+
+Organisation: The University of Nottingham
+IP: 128.243.43.149
+SHA_256: 587b1bc41a1ec4ddce5c947092dddfb021283a441fd765a6ba9dc41952c5465a
+CN: 938a985e4eae7e2da4fa8824783f65c6
+
+Organisation: The University of Nottingham
+IP: 128.243.204.92
+SHA_256: 8cdbb9b37c201340d8a29d611ce4171b08b587128ff22cc98137db70123270ca
+CN: 43c208bd4f8e9abb83e467cb1bf03ae8
+
+Organisation: The University of Nottingham
+IP: 128.243.204.92
+SHA_256: 8cdbb9b37c201340d8a29d611ce4171b08b587128ff22cc98137db70123270ca
+CN: 43c208bd4f8e9abb83e467cb1bf03ae8
+
+Organisation: The University of Nottingham
+IP: 128.243.42.8
+SHA_256: fe4ff4859c9ceded407c8950f81c043637525c7af7385b7e868eeea16f6b2d93
+CN: 3fcd0e882b1ba0307c3d032035bfcd10
+
+Organisation: The University of Nottingham
+IP: 128.243.42.128
+SHA_256: 820c1616cc5a3fab2ec5c36415a9b573d727680132605d1661f57ae43b48a55d
+CN: cf1f95cef8114b0f4201e4e1bbbf2009
+
+Organisation: The University of Nottingham
+IP: 128.243.42.128
+SHA_256: 820c1616cc5a3fab2ec5c36415a9b573d727680132605d1661f57ae43b48a55d
+CN: cf1f95cef8114b0f4201e4e1bbbf2009
+
+Organisation: The University of Nottingham
+IP: 128.243.204.70
+SHA_256: 4e731c4f5505b4b7826d56329e6ff726929c3ecfe0207bfaf850547a59111ffb
+CN: 54d207ec4aead8712b767a40f8e4a5d2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.70
+SHA_256: 4e731c4f5505b4b7826d56329e6ff726929c3ecfe0207bfaf850547a59111ffb
+CN: 54d207ec4aead8712b767a40f8e4a5d2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.104
+SHA_256: 177b15c0d6fe319e7203af93a1e9afcc0fe160da3d6f371ac8036bb0da689d8b
+CN: cf670320570db38865fdebeaa4e8fc0b
+
+Organisation: The University of Nottingham
+IP: 128.243.204.104
+SHA_256: 177b15c0d6fe319e7203af93a1e9afcc0fe160da3d6f371ac8036bb0da689d8b
+CN: cf670320570db38865fdebeaa4e8fc0b
+
+Organisation: The University of Nottingham
+IP: 128.243.206.27
+SHA_256: db6459e318537ce13f816cbc42cb00578530942eefd9f06e7569e93c8b68099a
+CN: 23c5d23038aa5e82f46a75b7d5361fe9e6dc4b83
+
+Organisation: The University of Nottingham
+IP: 128.243.204.170
+SHA_256: 42b45e403d21f87c06314622a1e5f2317e3cac443f2dc1aa33e6e84062f872c7
+CN: 7d4946cb5990d24cbec9fda0fe24d687
+
+Organisation: The University of Nottingham
+IP: 128.243.204.170
+SHA_256: 42b45e403d21f87c06314622a1e5f2317e3cac443f2dc1aa33e6e84062f872c7
+CN: 7d4946cb5990d24cbec9fda0fe24d687
+
+Organisation: The University of Nottingham
+IP: 128.243.226.80
+SHA_256: ad14c27bb717c9b482fc1581f1e2aa16fd64e69697e1eb5a04c3e36b5dbb2db4
+CN: 1eec037bdacf96ea775af162db777e6e
+
+Organisation: The University of Nottingham
+IP: 128.243.204.58
+SHA_256: 8f3c27a3f2bca80a3acb5dfb0448fda93079930d932d0265a10588352f76af17
+CN: 359ae578957ebf9cf4610013a34a7f77755474eb
+
+Organisation: The University of Nottingham
+IP: 128.243.42.26
+SHA_256: 5777cf9965b37afcb2385a253d0309699cb01dfb6b4ffa8e8edd7bb99b4fc10e
+CN: dd549c716a10bd8e3bd5e1850b481cd0
+
+Organisation: The University of Nottingham
+IP: 128.243.44.56
+SHA_256: 5777cf9965b37afcb2385a253d0309699cb01dfb6b4ffa8e8edd7bb99b4fc10e
+CN: dd549c716a10bd8e3bd5e1850b481cd0
+
+Organisation: The University of Nottingham
+IP: 128.243.42.26
+SHA_256: 5777cf9965b37afcb2385a253d0309699cb01dfb6b4ffa8e8edd7bb99b4fc10e
+CN: dd549c716a10bd8e3bd5e1850b481cd0
+
+Organisation: The University of Nottingham
+IP: 128.243.44.56
+SHA_256: 5777cf9965b37afcb2385a253d0309699cb01dfb6b4ffa8e8edd7bb99b4fc10e
+CN: dd549c716a10bd8e3bd5e1850b481cd0
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.206.29
+SHA_256: d5fd06bc83ff08c8c2e267a64f754ebfe12548e054e4cc0fb9bfa9a3d4c5d042
+CN: 4f0333a55003b011e6e2fe7f1fed31c2
+
+Organisation: The University of Nottingham
+IP: 128.243.206.29
+SHA_256: d5fd06bc83ff08c8c2e267a64f754ebfe12548e054e4cc0fb9bfa9a3d4c5d042
+CN: 4f0333a55003b011e6e2fe7f1fed31c2
+
+Organisation: The University of Nottingham
+IP: 128.243.226.157
+SHA_256: 1b2ebf3f0f3684fdc5c6b250c2695e8cbf349d736772a96e5e4235245c50e16a
+CN: b9e87e326180efa688cce0aff6f845be
+
+Organisation: The University of Nottingham
+IP: 128.243.226.157
+SHA_256: 1b2ebf3f0f3684fdc5c6b250c2695e8cbf349d736772a96e5e4235245c50e16a
+CN: b9e87e326180efa688cce0aff6f845be
+
+Organisation: The University of Nottingham
+IP: 128.243.21.96
+SHA_256: abd0835642b9dc258a8fdc6ca4f2721459b41a88d8d332f109d51010a6e6c509
+CN: cc1252843c1298db852259a6379931f6
+
+Organisation: The University of Nottingham
+IP: 128.243.204.84
+SHA_256: 5fe34a3f72a1e5d1174af1dcab205122ee8f2a1a18012e629f5fa363bbc1a649
+CN: 6b0b4d1b2f828f2a013de92d1789d3ec
+
+Organisation: The University of Nottingham
+IP: 128.243.204.97
+SHA_256: de49b448b4495597b2718af7a2e0822fdb94935f9e57b1644c8cb99c693bbca9
+CN: 468cacf5fcbfeaf18afc6dc4c019f5a2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.97
+SHA_256: de49b448b4495597b2718af7a2e0822fdb94935f9e57b1644c8cb99c693bbca9
+CN: 468cacf5fcbfeaf18afc6dc4c019f5a2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.97
+SHA_256: de49b448b4495597b2718af7a2e0822fdb94935f9e57b1644c8cb99c693bbca9
+CN: 468cacf5fcbfeaf18afc6dc4c019f5a2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.84
+SHA_256: 5fe34a3f72a1e5d1174af1dcab205122ee8f2a1a18012e629f5fa363bbc1a649
+CN: 6b0b4d1b2f828f2a013de92d1789d3ec
+
+Organisation: The University of Nottingham
+IP: 128.243.204.97
+SHA_256: de49b448b4495597b2718af7a2e0822fdb94935f9e57b1644c8cb99c693bbca9
+CN: 468cacf5fcbfeaf18afc6dc4c019f5a2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.97
+SHA_256: de49b448b4495597b2718af7a2e0822fdb94935f9e57b1644c8cb99c693bbca9
+CN: 468cacf5fcbfeaf18afc6dc4c019f5a2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.97
+SHA_256: de49b448b4495597b2718af7a2e0822fdb94935f9e57b1644c8cb99c693bbca9
+CN: 468cacf5fcbfeaf18afc6dc4c019f5a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.204.53
+SHA_256: 2ab06168aef01799ffa0fdf2aaf93a8d5e4d7eee35e3c57f5115dccee9724cd1
+CN: f051f88a03c5e71450765ebf7bf899b9
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: The University of Nottingham
+IP: 128.243.50.217
+SHA_256: e6234678e36c8e19ac4683de49a5e709e65a6092db06e6176b9af25dc9c7cf14
+CN: f0b1c0db7146d51c01e70c73cf52881f
+
+Organisation: The University of Nottingham
+IP: 128.243.50.217
+SHA_256: e6234678e36c8e19ac4683de49a5e709e65a6092db06e6176b9af25dc9c7cf14
+CN: f0b1c0db7146d51c01e70c73cf52881f
+
+Organisation: The University of Nottingham
+IP: 128.243.204.163
+SHA_256: 5b0237141cf87dfbf78954439e15dcd7424aefdc3daf963bfe1cf87f920de99a
+CN: c397cda2a59d33b229d341ba5024a143
+
+Organisation: The University of Nottingham
+IP: 128.243.204.163
+SHA_256: 5b0237141cf87dfbf78954439e15dcd7424aefdc3daf963bfe1cf87f920de99a
+CN: c397cda2a59d33b229d341ba5024a143
+
+Organisation: The University of Nottingham
+IP: 128.243.226.75
+SHA_256: da139d5b6c72e02004d09c6b50a950fdac1b21f3a6653093a21423d753df0bbf
+CN: 648f6d8409b6ac07ca752c77048f1770
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.45.233
+SHA_256: 43aefd67e8ded32382d7f4b0ec961ca95c875510bd0530c00f1f36f4c9658728
+CN: 1d28a569388ae906dfe1ff8e6433ce04b0400a9
+
+Organisation: The University of Nottingham
+IP: 128.243.206.21
+SHA_256: 02ee862bf666fa46e0c7bec7db0c96abb03c43f7a90de94a7150a1152dedc8cf
+CN: aeb83d4e0e846bb4fc74a58c0a25f8ce
+
+Organisation: The University of Nottingham
+IP: 128.243.206.17
+SHA_256: 02ee862bf666fa46e0c7bec7db0c96abb03c43f7a90de94a7150a1152dedc8cf
+CN: aeb83d4e0e846bb4fc74a58c0a25f8ce
+
+Organisation: The University of Nottingham
+IP: 128.243.206.21
+SHA_256: 02ee862bf666fa46e0c7bec7db0c96abb03c43f7a90de94a7150a1152dedc8cf
+CN: aeb83d4e0e846bb4fc74a58c0a25f8ce
+
+Organisation: The University of Nottingham
+IP: 128.243.206.17
+SHA_256: 02ee862bf666fa46e0c7bec7db0c96abb03c43f7a90de94a7150a1152dedc8cf
+CN: aeb83d4e0e846bb4fc74a58c0a25f8ce
+
+Organisation: The University of Nottingham
+IP: 128.243.209.2
+SHA_256: 6238632fe3dcd1dd44b4555e5c5072367426d64116a0d3c27ad0c2c44dd76bb3
+CN: 42ff2e854515c55282db5ba9a85920b6b2150bad
+
+Organisation: The University of Nottingham
+IP: 128.243.226.217
+SHA_256: 9f6c77adcebfcb3167a0f60bb7bcd7d40b26b3dbb6ac5fc4d707e6d136b5fdfc
+CN: 98f24cbc981cfc985fe0b13ce5b9fec0
+
+Organisation: The University of Nottingham
+IP: 128.243.226.217
+SHA_256: 9f6c77adcebfcb3167a0f60bb7bcd7d40b26b3dbb6ac5fc4d707e6d136b5fdfc
+CN: 98f24cbc981cfc985fe0b13ce5b9fec0
+
+Organisation: The University of Nottingham
+IP: 128.243.40.76
+SHA_256: 80d0890049f4b8f57ce1e071b5e20dac826aaee433e3ae3fa8d4c5df74b02352
+CN: 49fb8e486e907314aa76755977cbf402
+
+Organisation: The University of Nottingham
+IP: 128.243.40.76
+SHA_256: 80d0890049f4b8f57ce1e071b5e20dac826aaee433e3ae3fa8d4c5df74b02352
+CN: 49fb8e486e907314aa76755977cbf402
+
+Organisation: The University of Nottingham
+IP: 128.243.226.137
+SHA_256: 17f9a3f4a028e29040f2ec1e37acdc7ac35289ea78295437455717312f911fd9
+CN: 4f8faf7a64d304e06def6b01e3ebc26e
+
+Organisation: The University of Nottingham
+IP: 128.243.226.137
+SHA_256: 17f9a3f4a028e29040f2ec1e37acdc7ac35289ea78295437455717312f911fd9
+CN: 4f8faf7a64d304e06def6b01e3ebc26e
+
+Organisation: The University of Nottingham
+IP: 128.243.204.151
+SHA_256: abcb32ea556a635a8ed863efc89777687c3f896a75d55798ba3c245b3cc4e112
+CN: 31545d3c2211f114f4c03d792b348872
+
+Organisation: The University of Nottingham
+IP: 128.243.204.90
+SHA_256: 974bdd707a3177c714786f84b5d683c7952fc6b464c83cbe7c47dd81c633632d
+CN: c217375925a70d8dee28def9418ab89c
+
+Organisation: The University of Nottingham
+IP: 128.243.204.90
+SHA_256: 974bdd707a3177c714786f84b5d683c7952fc6b464c83cbe7c47dd81c633632d
+CN: c217375925a70d8dee28def9418ab89c
+
+Organisation: The University of Nottingham
+IP: 128.243.226.234
+SHA_256: c6d5f3f9cb751d3b5c0f9b51d9b7218708d9d458b23e631622345e78da897a37
+CN: 2600250f2a6eb1ffb6e600a9542c60ed
+
+Organisation: The University of Nottingham
+IP: 128.243.226.237
+SHA_256: eaf719b4f16bd0d8864083cc597339a112afbc15d69fd2b997545fca94866653
+CN: a0265ba80d8db5098eeb7949d0cdcf7e
+
+Organisation: The University of Nottingham
+IP: 128.243.226.237
+SHA_256: eaf719b4f16bd0d8864083cc597339a112afbc15d69fd2b997545fca94866653
+CN: a0265ba80d8db5098eeb7949d0cdcf7e
+
+Organisation: The University of Nottingham
+IP: 128.243.204.78
+SHA_256: 0c240fd8c4c314039258aef4f574e4100c4c17fe2f61b95a67400c3214ac9c58
+CN: 6073e99ed6bf2412968f02dfdbe1b47a
+
+Organisation: The University of Nottingham
+IP: 128.243.204.78
+SHA_256: 0c240fd8c4c314039258aef4f574e4100c4c17fe2f61b95a67400c3214ac9c58
+CN: 6073e99ed6bf2412968f02dfdbe1b47a
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.129.100
+SHA_256: 58989b0559e6f110de4b58a96dbe55e36323c2b67422d98795cd85375d445fa0
+CN: e04714254d28f9bf230ccff566e37cb6
+
+Organisation: The University of Nottingham
+IP: 128.243.129.101
+SHA_256: 58989b0559e6f110de4b58a96dbe55e36323c2b67422d98795cd85375d445fa0
+CN: e04714254d28f9bf230ccff566e37cb6
+
+Organisation: The University of Nottingham
+IP: 128.243.129.116
+SHA_256: 319329ef4dc8ed5dfc05ce9105b5af90ee0266704ed248c9ed9ec13923721459
+CN: d1232cda4ca13ac5d4e7ae637a01193f
+
+Organisation: The University of Nottingham
+IP: 128.243.129.117
+SHA_256: 319329ef4dc8ed5dfc05ce9105b5af90ee0266704ed248c9ed9ec13923721459
+CN: d1232cda4ca13ac5d4e7ae637a01193f
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.40
+SHA_256: e058483e8396eb312911fcd6b9730a4678fba8defea48f0d16af1c4febf4691a
+CN: a7f76b88914d90d08567e9f2a6749cde
+
+Organisation: The University of Nottingham
+IP: 128.243.204.40
+SHA_256: e058483e8396eb312911fcd6b9730a4678fba8defea48f0d16af1c4febf4691a
+CN: a7f76b88914d90d08567e9f2a6749cde
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.204.151
+SHA_256: abcb32ea556a635a8ed863efc89777687c3f896a75d55798ba3c245b3cc4e112
+CN: 31545d3c2211f114f4c03d792b348872
+
+Organisation: The University of Nottingham
+IP: 128.243.204.112
+SHA_256: 3692e5076803d16cfbdc6505db144798194a26126b5fcc65c6ab061691b2437e
+CN: a501669dfa179b5ee97209a73bd979e1
+
+Organisation: The University of Nottingham
+IP: 128.243.204.112
+SHA_256: 3692e5076803d16cfbdc6505db144798194a26126b5fcc65c6ab061691b2437e
+CN: a501669dfa179b5ee97209a73bd979e1
+
+Organisation: 
+IP: 128.243.184.35
+SHA_256: be6eee609202881c6bb6305916db09147344aebc0e9b0e6c9837eebe80d2f040
+CN: 3a9e8d6131e7e3d06197f71d2290a20ec28
+
+Organisation: The University of Nottingham
+IP: 128.243.204.152
+SHA_256: 1c7b89fe3efd655dc9d2095f45cf8cb55493f1eff6cd972cab793818a1baa61d
+CN: 6c52d8b39085bb32f02bb968f6c4deda
+
+Organisation: The University of Nottingham
+IP: 128.243.204.152
+SHA_256: 1c7b89fe3efd655dc9d2095f45cf8cb55493f1eff6cd972cab793818a1baa61d
+CN: 6c52d8b39085bb32f02bb968f6c4deda
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.129.100
+SHA_256: 58989b0559e6f110de4b58a96dbe55e36323c2b67422d98795cd85375d445fa0
+CN: e04714254d28f9bf230ccff566e37cb6
+
+Organisation: The University of Nottingham
+IP: 128.243.129.101
+SHA_256: 58989b0559e6f110de4b58a96dbe55e36323c2b67422d98795cd85375d445fa0
+CN: e04714254d28f9bf230ccff566e37cb6
+
+Organisation: The University of Nottingham
+IP: 128.243.129.116
+SHA_256: 319329ef4dc8ed5dfc05ce9105b5af90ee0266704ed248c9ed9ec13923721459
+CN: d1232cda4ca13ac5d4e7ae637a01193f
+
+Organisation: The University of Nottingham
+IP: 128.243.129.117
+SHA_256: 319329ef4dc8ed5dfc05ce9105b5af90ee0266704ed248c9ed9ec13923721459
+CN: d1232cda4ca13ac5d4e7ae637a01193f
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.187.32
+SHA_256: 5db835628c8ed1ce080818547192501b60b31e6b18a03870d1457ff69cb86838
+CN: f07abb2c606a17a1ac74aa07c35989da
+
+Organisation: The University of Nottingham
+IP: 128.243.247.171
+SHA_256: 7061d9f06cc144969af95cbb71a69598d2c80da2efc02b1861bafbab182f9f86
+CN: 2654db1c91834efb7b310275eb7eb9c3
+
+Organisation: The University of Nottingham
+IP: 128.243.204.42
+SHA_256: f29d04cc770e188c3dc4b5d7167ad98069c9ad801864727992bcdcdf7d8f6431
+CN: 12f30e76446764f45936c3258867d9e1
+
+Organisation: The University of Nottingham
+IP: 128.243.187.32
+SHA_256: 5db835628c8ed1ce080818547192501b60b31e6b18a03870d1457ff69cb86838
+CN: f07abb2c606a17a1ac74aa07c35989da
+
+Organisation: The University of Nottingham
+IP: 128.243.247.171
+SHA_256: 7061d9f06cc144969af95cbb71a69598d2c80da2efc02b1861bafbab182f9f86
+CN: 2654db1c91834efb7b310275eb7eb9c3
+
+Organisation: 
+IP: 128.243.20.207
+SHA_256: 7ae5bd4ff3039c7b8ba74ac02e1c7999b08ea103c2277bc3c56c21e7d6116797
+CN: 30f355fbdff7165f6d6a04d190ae2d7f153
+
+Organisation: The University of Nottingham
+IP: 128.243.204.26
+SHA_256: f6031dcf03ed90b1e1c38ee63a613482c81a7676810ac6f390ab656c5c8bec42
+CN: fcd800d5edeee531a757ffca1cf9202c
+
+Organisation: The University of Nottingham
+IP: 128.243.204.26
+SHA_256: f6031dcf03ed90b1e1c38ee63a613482c81a7676810ac6f390ab656c5c8bec42
+CN: fcd800d5edeee531a757ffca1cf9202c
+
+Organisation: The University of Nottingham
+IP: 35.214.221.184
+SHA_256: 610dd09bf4dc6ebb1d5919b4f943658fd9a9b0b6556f3c3da66f07ef168b9faa
+CN: c21631b66d795e84e6029d42fa17dc42
+
+Organisation: The University of Nottingham
+IP: 35.214.221.184
+SHA_256: 610dd09bf4dc6ebb1d5919b4f943658fd9a9b0b6556f3c3da66f07ef168b9faa
+CN: c21631b66d795e84e6029d42fa17dc42
+
+Organisation: The University of Nottingham
+IP: 128.243.204.11
+SHA_256: e2f82176706b70537899bbb6fcd93129153b683a19ab17c172b04a7599414af4
+CN: e72c2ccf98e6e61cf14ffc2fb5b0b3d1
+
+Organisation: The University of Nottingham
+IP: 128.243.204.72
+SHA_256: e2f82176706b70537899bbb6fcd93129153b683a19ab17c172b04a7599414af4
+CN: e72c2ccf98e6e61cf14ffc2fb5b0b3d1
+
+Organisation: The University of Nottingham
+IP: 128.243.204.103
+SHA_256: e2f82176706b70537899bbb6fcd93129153b683a19ab17c172b04a7599414af4
+CN: e72c2ccf98e6e61cf14ffc2fb5b0b3d1
+
+Organisation: The University of Nottingham
+IP: 128.243.204.11
+SHA_256: e2f82176706b70537899bbb6fcd93129153b683a19ab17c172b04a7599414af4
+CN: e72c2ccf98e6e61cf14ffc2fb5b0b3d1
+
+Organisation: The University of Nottingham
+IP: 128.243.204.72
+SHA_256: e2f82176706b70537899bbb6fcd93129153b683a19ab17c172b04a7599414af4
+CN: e72c2ccf98e6e61cf14ffc2fb5b0b3d1
+
+Organisation: The University of Nottingham
+IP: 128.243.204.103
+SHA_256: e2f82176706b70537899bbb6fcd93129153b683a19ab17c172b04a7599414af4
+CN: e72c2ccf98e6e61cf14ffc2fb5b0b3d1
+
+Organisation: The University of Nottingham
+IP: 128.243.204.2
+SHA_256: 0c5f94068dffcdc84d4764dd24051add6eed5bd3fc97fd28f31f152930c151f6
+CN: b01220eeb86066a290a6ad3324142323
+
+Organisation: The University of Nottingham
+IP: 128.243.9.201
+SHA_256: 158ce1d4e1db882ae785c5268b36ba4a9e0e3f19a2d951d8472c5f13aec91689
+CN: e25d535499aacefd2a679a64a7be138c
+
+Organisation: The University of Nottingham
+IP: 128.243.9.201
+SHA_256: 158ce1d4e1db882ae785c5268b36ba4a9e0e3f19a2d951d8472c5f13aec91689
+CN: e25d535499aacefd2a679a64a7be138c
+
+Organisation: The University of Nottingham
+IP: 128.243.204.74
+SHA_256: 118b8156a56152754c850668af5aacd5f5e5e36ff9554127a988bfb85e36f3a4
+CN: 5649c787fb048b1329333cf74ad58cc2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.171
+SHA_256: 8662b2362c7a8934ab47be5b33097b560445b01fd8030efa4d57de3101d04924
+CN: aaddb57ca5659d7e2e93d3286f8019f6
+
+Organisation: The University of Nottingham
+IP: 128.243.46.247
+SHA_256: 3ec4c776155875a5bac82a1c6b53b46ad1c7bd9438122cc589c94f1c36fd92eb
+CN: 1121e3d6ea78a1d9a5c675396df64079b14b
+
+Organisation: The University of Nottingham
+IP: 128.243.46.247
+SHA_256: 3ec4c776155875a5bac82a1c6b53b46ad1c7bd9438122cc589c94f1c36fd92eb
+CN: 1121e3d6ea78a1d9a5c675396df64079b14b
+
+Organisation: The University of Nottingham
+IP: 128.243.204.98
+SHA_256: f04fc61df1223b8174fbbed54a5bce4ecd59a27fc711eddff36bff97f324bd09
+CN: f20c1f0fb19835dad2ca6e0fb71003f5
+
+Organisation: The University of Nottingham
+IP: 128.243.204.98
+SHA_256: f04fc61df1223b8174fbbed54a5bce4ecd59a27fc711eddff36bff97f324bd09
+CN: f20c1f0fb19835dad2ca6e0fb71003f5
+
+Organisation: The University of Nottingham
+IP: 128.243.204.110
+SHA_256: c2aa1b51219890b0b6b7ff88478a18954e32982c7bec99ff1595240c1e5c17b7
+CN: 312fbad0dc0748f647fad190b4a9b6ce
+
+Organisation: The University of Nottingham
+IP: 128.243.204.110
+SHA_256: c2aa1b51219890b0b6b7ff88478a18954e32982c7bec99ff1595240c1e5c17b7
+CN: 312fbad0dc0748f647fad190b4a9b6ce
+
+Organisation: The University of Nottingham
+IP: 128.243.204.71
+SHA_256: afebcfd258a54f9dd6f782e3ca7c038775c21c832576b267f21d9fe47aa81141
+CN: 450f363cad45b819d158b8e2288d5a56
+
+Organisation: The University of Nottingham
+IP: 128.243.204.71
+SHA_256: afebcfd258a54f9dd6f782e3ca7c038775c21c832576b267f21d9fe47aa81141
+CN: 450f363cad45b819d158b8e2288d5a56
+
+Organisation: The University of Nottingham
+IP: 128.243.206.18
+SHA_256: 397200c90e39bdac0c13e363586936e6258935ca33f483a52ea5b5342535d0aa
+CN: d0b5573fb0c9d041f786e747671243b5
+
+Organisation: The University of Nottingham
+IP: 128.243.206.18
+SHA_256: 397200c90e39bdac0c13e363586936e6258935ca33f483a52ea5b5342535d0aa
+CN: d0b5573fb0c9d041f786e747671243b5
+
+Organisation: The University of Nottingham
+IP: 128.243.44.17
+SHA_256: 834ce9de4908ff17e5e8d80410632f21954544bd8df84369e2a3d884b3d8e2bf
+CN: d3b05b2ed564887f9af4d32334b8f84a032115b
+
+Organisation: The University of Nottingham
+IP: 128.243.206.20
+SHA_256: c2bd2a825896386cee999de1338ab3ddbe1f9ee3c3a01b38f9014405290c3cf1
+CN: 97d42ffe79b5c156e90d88a9852a0bb6
+
+Organisation: The University of Nottingham
+IP: 128.243.206.20
+SHA_256: c2bd2a825896386cee999de1338ab3ddbe1f9ee3c3a01b38f9014405290c3cf1
+CN: 97d42ffe79b5c156e90d88a9852a0bb6
+
+Organisation: The University of Nottingham
+IP: 128.243.204.41
+SHA_256: c9d70f3e28f66c60283b9b6d99fc0a17b565c5146c42ed0ffbc396304528ecd5
+CN: 4bd71f6baf8f10c3124e3ca1c5c84ccc
+
+Organisation: The University of Nottingham
+IP: 128.243.204.41
+SHA_256: c9d70f3e28f66c60283b9b6d99fc0a17b565c5146c42ed0ffbc396304528ecd5
+CN: 4bd71f6baf8f10c3124e3ca1c5c84ccc
+
+Organisation: The University of Nottingham
+IP: 128.243.204.12
+SHA_256: 539aadda80ff696df34c5f52395a069791b481186002b85168b6fabc47f12b75
+CN: 4ccad89bdd036172d51a5c9e06a4bad4
+
+Organisation: The University of Nottingham
+IP: 128.243.204.12
+SHA_256: 539aadda80ff696df34c5f52395a069791b481186002b85168b6fabc47f12b75
+CN: 4ccad89bdd036172d51a5c9e06a4bad4
+
+Organisation: The University of Nottingham
+IP: 128.243.204.74
+SHA_256: 118b8156a56152754c850668af5aacd5f5e5e36ff9554127a988bfb85e36f3a4
+CN: 5649c787fb048b1329333cf74ad58cc2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.85
+SHA_256: e10b86c8b304bbcea04da18aa8a89c3362f05ea35951522cb550de8dea4a18d1
+CN: a9b214ab860e85583e2d5970efd12a41
+
+Organisation: The University of Nottingham
+IP: 128.243.204.85
+SHA_256: e10b86c8b304bbcea04da18aa8a89c3362f05ea35951522cb550de8dea4a18d1
+CN: a9b214ab860e85583e2d5970efd12a41
+
+Organisation: The University of Nottingham
+IP: 128.243.42.90
+SHA_256: cc9ac803efad29a97dcdfd7b9542f02fdf5e233b2ca8976acf18141306186282
+CN: 9e55ead206281825898f731362305215
+
+Organisation: The University of Nottingham
+IP: 128.243.42.90
+SHA_256: cc9ac803efad29a97dcdfd7b9542f02fdf5e233b2ca8976acf18141306186282
+CN: 9e55ead206281825898f731362305215
+
+Organisation: The University of Nottingham
+IP: 128.243.204.9
+SHA_256: 2a2d0f7a2fec58b43ec0c720e5b4e84e0716a7dcda52acbfbf3b7f50141d794f
+CN: 622edcd00560569e056449687885811d
+
+Organisation: The University of Nottingham
+IP: 128.243.204.9
+SHA_256: 2a2d0f7a2fec58b43ec0c720e5b4e84e0716a7dcda52acbfbf3b7f50141d794f
+CN: 622edcd00560569e056449687885811d
+
+Organisation: The University of Nottingham
+IP: 128.243.204.32
+SHA_256: 6780fa562d82a4c208ba305acdf1d47a469430ee84767b8068e520f49a0c2007
+CN: 6762045e01500bb56b434180ccf6530c
+
+Organisation: The University of Nottingham
+IP: 128.243.204.32
+SHA_256: 6780fa562d82a4c208ba305acdf1d47a469430ee84767b8068e520f49a0c2007
+CN: 6762045e01500bb56b434180ccf6530c
+
+Organisation: The University of Nottingham
+IP: 128.243.204.165
+SHA_256: 7118580b83534389cb5447f4d7b8be443766865eff763081d4e5c1f469bdb47b
+CN: 5d7da74808ea4cd1da248727ccb93b387d4d326b
+
+Organisation: The University of Nottingham
+IP: 128.243.226.80
+SHA_256: ad14c27bb717c9b482fc1581f1e2aa16fd64e69697e1eb5a04c3e36b5dbb2db4
+CN: 1eec037bdacf96ea775af162db777e6e
+
+Organisation: The University of Nottingham
+IP: 128.243.226.75
+SHA_256: da139d5b6c72e02004d09c6b50a950fdac1b21f3a6653093a21423d753df0bbf
+CN: 648f6d8409b6ac07ca752c77048f1770
+
+Organisation: The University of Nottingham
+IP: 128.243.226.77
+SHA_256: e3363fd33ff6815c48bd738137c1fe1402cb0e6b0b06a41b153f083dfc4a0add
+CN: 3cc6f834f18ef8817459a55823da0f33
+
+Organisation: The University of Nottingham
+IP: 46.22.140.136
+SHA_256: 9547445aeafc73d7d4833efa934ea7edc3a2300d300cfe3c355a5ac107b2879e
+CN: 5cfe1b17c03f659738fbcb8c8f21a4b2
+
+Organisation: The University of Nottingham
+IP: 128.243.204.67
+SHA_256: 0cf4e8c140ad58c99445826ec8f802479da5032024a1d73a9e0ed5f8e2e49e27
+CN: e5335522b434165409ba501b8458d2fd
+
+Organisation: The University of Nottingham
+IP: 128.243.204.67
+SHA_256: 0cf4e8c140ad58c99445826ec8f802479da5032024a1d73a9e0ed5f8e2e49e27
+CN: e5335522b434165409ba501b8458d2fd
+
+Organisation: The University of Nottingham
+IP: 128.243.204.36
+SHA_256: 40dae6afdf76e50346dfd27bb69266da143418ac89f986478435de13d44e4927
+CN: 2fe4270345c843da40590bc30b5b57a36efcfcd8
+
+Organisation: The University of Nottingham
+IP: 128.243.226.80
+SHA_256: ad14c27bb717c9b482fc1581f1e2aa16fd64e69697e1eb5a04c3e36b5dbb2db4
+CN: 1eec037bdacf96ea775af162db777e6e
+
+Organisation: The University of Nottingham
+IP: 128.243.226.75
+SHA_256: da139d5b6c72e02004d09c6b50a950fdac1b21f3a6653093a21423d753df0bbf
+CN: 648f6d8409b6ac07ca752c77048f1770
+
+Organisation: The University of Nottingham
+IP: 128.243.226.77
+SHA_256: e3363fd33ff6815c48bd738137c1fe1402cb0e6b0b06a41b153f083dfc4a0add
+CN: 3cc6f834f18ef8817459a55823da0f33
+
+Organisation: The University of Nottingham
+IP: 128.243.204.153
+SHA_256: b83560a4c603c8b3d1b2354a0548c99c1798e6c4507765a0c3adb8cf4b138963
+CN: 3198ee3b59715cd329128b7469b62270
+
+Organisation: The University of Nottingham
+IP: 128.243.50.91
+SHA_256: 6ea53964b1de9ae6b06be55d234b484f58393188df3b851b966946032d97f8d2
+CN: 4f3bd303d6cf992e45b5287edf11e1a2
+
+Organisation: The University of Nottingham
+IP: 128.243.50.92
+SHA_256: 9a5920d9f1e4b51afd58f87475c543ee38d2bb5d0480ed61b5113f618213623d
+CN: 9ea6be08c95f93a8cdf3c5263314b685
+
+Organisation: The University of Nottingham
+IP: 128.243.204.47
+SHA_256: d9de2b0ba87422c2f81e241c1962f12a8bad46ea9830deb7607b2cfe48e7c05e
+CN: ec2b4d3ca24fd4fad592032b8085003a
+
+Organisation: The University of Nottingham
+IP: 128.243.204.47
+SHA_256: d9de2b0ba87422c2f81e241c1962f12a8bad46ea9830deb7607b2cfe48e7c05e
+CN: ec2b4d3ca24fd4fad592032b8085003a
+
+Organisation: The University of Nottingham
+IP: 128.243.204.128
+SHA_256: f70a7c0970616f7ccb05861a7d6d28477286a5440f4cbfa2e91703c711561000
+CN: a4493c600a7d1a7b3cfaebb5eda781d9
+
+Organisation: The University of Nottingham
+IP: 128.243.44.184
+SHA_256: 3d4972fb6bb6d7fa3f775e36da60acd69b76f02ea2214dfb5853fa429c99b1a8
+CN: 2936cf9ddbf0d0a4d7a1180015622e37be91a7b4
+
+Organisation: The University of Nottingham
+IP: 20.50.199.92
+SHA_256: 70b8a5c8be91560ce28f6311e0dcb78b4af83db8006a84597d9e9f17ff080904
+CN: 5bb051cc25fd380f7b7b183fc86396f5
+
+Organisation: The University of Nottingham
+IP: 51.138.123.153
+SHA_256: 70b8a5c8be91560ce28f6311e0dcb78b4af83db8006a84597d9e9f17ff080904
+CN: 5bb051cc25fd380f7b7b183fc86396f5
+
+Organisation: The University of Nottingham
+IP: 20.56.56.137
+SHA_256: 70b8a5c8be91560ce28f6311e0dcb78b4af83db8006a84597d9e9f17ff080904
+CN: 5bb051cc25fd380f7b7b183fc86396f5
+
+Organisation: The University of Nottingham
+IP: 20.50.199.92
+SHA_256: 70b8a5c8be91560ce28f6311e0dcb78b4af83db8006a84597d9e9f17ff080904
+CN: 5bb051cc25fd380f7b7b183fc86396f5
+
+Organisation: The University of Nottingham
+IP: 51.138.123.153
+SHA_256: 70b8a5c8be91560ce28f6311e0dcb78b4af83db8006a84597d9e9f17ff080904
+CN: 5bb051cc25fd380f7b7b183fc86396f5
+
+Organisation: The University of Nottingham
+IP: 20.56.56.137
+SHA_256: 70b8a5c8be91560ce28f6311e0dcb78b4af83db8006a84597d9e9f17ff080904
+CN: 5bb051cc25fd380f7b7b183fc86396f5
+
+Organisation: The University of Nottingham
+IP: 128.243.45.177
+SHA_256: e09621c055a8365a2327cf2d2c50bc8cf2f0c9b01cdb71e3f01bd9c9dbe781fd
+CN: 5748de0d302154972d3812010db5c9691544d2c
+
+Organisation: The University of Nottingham
+IP: 128.243.204.129
+SHA_256: f7a0a8c4dceb53cea1e2f0b11cd00359cb72fb3c37e0a22933b3f74e7bd7498c
+CN: 816b4cbd7e424400d4fb7999ed433e76
+
+Organisation: The University of Nottingham
+IP: 128.243.204.129
+SHA_256: f7a0a8c4dceb53cea1e2f0b11cd00359cb72fb3c37e0a22933b3f74e7bd7498c
+CN: 816b4cbd7e424400d4fb7999ed433e76
+
+Organisation: The University of Nottingham
+IP: 128.243.204.128
+SHA_256: f70a7c0970616f7ccb05861a7d6d28477286a5440f4cbfa2e91703c711561000
+CN: a4493c600a7d1a7b3cfaebb5eda781d9
+
+Organisation: The University of Nottingham
+IP: 128.243.204.61
+SHA_256: a207079a4b04cd9f861e7d7d280bbc1885d8b4087d96157423203f4d391a42cb
+CN: a629009dbdb90d1507a46f6f643ffcbf
+
+Organisation: The University of Nottingham
+IP: 128.243.204.61
+SHA_256: a207079a4b04cd9f861e7d7d280bbc1885d8b4087d96157423203f4d391a42cb
+CN: a629009dbdb90d1507a46f6f643ffcbf
+
+Organisation: The University of Nottingham
+IP: 128.243.204.124
+SHA_256: 1cf85e7c9cebbee8eef8b36820330789b20db193a88a7eb78bcbe07795460af1
+CN: faa68400566041323a27df2a3f235a92
+
+Organisation: The University of Nottingham
+IP: 128.243.204.124
+SHA_256: 1cf85e7c9cebbee8eef8b36820330789b20db193a88a7eb78bcbe07795460af1
+CN: faa68400566041323a27df2a3f235a92
+
+Organisation: The University of Nottingham
+IP: 128.243.42.17
+SHA_256: 312430990d3afe44aee471bcc8e0df517665760855dec80b11ad79442b47eb4d
+CN: 95b0808d176c1298e153c8d5a2ebd464
+
+Organisation: The University of Nottingham
+IP: 128.243.50.218
+SHA_256: 004ed3bdbeccc7f48c1d2352a2120778bb2699ee079397919a8a8321f7af6838
+CN: 68fb6a08ccaac98d2045919eb99127a0
+
+Organisation: The University of Nottingham
+IP: 128.243.50.219
+SHA_256: 004ed3bdbeccc7f48c1d2352a2120778bb2699ee079397919a8a8321f7af6838
+CN: 68fb6a08ccaac98d2045919eb99127a0
+
+Organisation: The University of Nottingham
+IP: 51.124.127.236
+SHA_256: 9f540de2fc672f007444ad5bf7840356186cf74f977fbc2e128db3f91016149c
+CN: 35def923d8b17c80010173f0a76dfd74
+
+Organisation: The University of Nottingham
+IP: 20.56.13.76
+SHA_256: 9f540de2fc672f007444ad5bf7840356186cf74f977fbc2e128db3f91016149c
+CN: 35def923d8b17c80010173f0a76dfd74
+
+Organisation: The University of Nottingham
+IP: 20.50.12.197
+SHA_256: 9f540de2fc672f007444ad5bf7840356186cf74f977fbc2e128db3f91016149c
+CN: 35def923d8b17c80010173f0a76dfd74
+
+Organisation: The University of Nottingham
+IP: 51.124.127.236
+SHA_256: 9f540de2fc672f007444ad5bf7840356186cf74f977fbc2e128db3f91016149c
+CN: 35def923d8b17c80010173f0a76dfd74
+
+Organisation: The University of Nottingham
+IP: 20.56.13.76
+SHA_256: 9f540de2fc672f007444ad5bf7840356186cf74f977fbc2e128db3f91016149c
+CN: 35def923d8b17c80010173f0a76dfd74
+
+Organisation: The University of Nottingham
+IP: 20.50.12.197
+SHA_256: 9f540de2fc672f007444ad5bf7840356186cf74f977fbc2e128db3f91016149c
+CN: 35def923d8b17c80010173f0a76dfd74
+
+Organisation: 
+IP: 20.0.18.237
+SHA_256: 1fc7bf6558fae97cdd2a24443f08eecb6cb1991bd2c8d812245a27bc7be07522
+CN: 36fe0269d6479f72a83b8499e63cc3780bd
+
+Organisation: 
+IP: 20.0.18.237
+SHA_256: 1fc7bf6558fae97cdd2a24443f08eecb6cb1991bd2c8d812245a27bc7be07522
+CN: 36fe0269d6479f72a83b8499e63cc3780bd
+
+Organisation: 
+IP: 13.41.36.64
+SHA_256: 22f6ccf7e67a583e2163f0049289d947d37bd5c0399cb19d43819675d068c005
+CN: 4e136e7f29fe0d44a4bf1b4da284b67d395
+
+Organisation: 
+IP: 18.169.76.138
+SHA_256: 22f6ccf7e67a583e2163f0049289d947d37bd5c0399cb19d43819675d068c005
+CN: 4e136e7f29fe0d44a4bf1b4da284b67d395
+
+Organisation: 
+IP: 13.41.36.64
+SHA_256: 22f6ccf7e67a583e2163f0049289d947d37bd5c0399cb19d43819675d068c005
+CN: 4e136e7f29fe0d44a4bf1b4da284b67d395
+
+Organisation: 
+IP: 18.169.76.138
+SHA_256: 22f6ccf7e67a583e2163f0049289d947d37bd5c0399cb19d43819675d068c005
+CN: 4e136e7f29fe0d44a4bf1b4da284b67d395
+
+Organisation: The University of Nottingham
+IP: 128.243.42.30
+SHA_256: a8b72840758face3a1cf01c91ef0ff7dc711215764ba9fc2bd04cf49bbf4269a
+CN: 85078efb49ad454e61ab0ddf13ed28b2
+
+Organisation: The University of Nottingham
+IP: 128.243.45.212
+SHA_256: a8b72840758face3a1cf01c91ef0ff7dc711215764ba9fc2bd04cf49bbf4269a
+CN: 85078efb49ad454e61ab0ddf13ed28b2
+
+Organisation: 
+IP: 128.243.42.74
+SHA_256: ce49ac03339622fd91c99c72b222a547ffe41f0cb33122b9d9beeb04ea9be53d
+CN: d99217dd803f4c43
+
+Organisation: The University of Nottingham
+IP: 128.243.50.218
+SHA_256: 004ed3bdbeccc7f48c1d2352a2120778bb2699ee079397919a8a8321f7af6838
+CN: 68fb6a08ccaac98d2045919eb99127a0
+
+Organisation: The University of Nottingham
+IP: 128.243.50.219
+SHA_256: 004ed3bdbeccc7f48c1d2352a2120778bb2699ee079397919a8a8321f7af6838
+CN: 68fb6a08ccaac98d2045919eb99127a0
+
+Organisation: The University of Nottingham
+IP: 128.243.204.52
+SHA_256: ce8dc855370ae433f028110fb013d8898ccf7a3caaebd72f37246c0b1a02cec4
+CN: 7de00ca3c4bf15413cf645fbd3fe1721
+
+Organisation: The University of Nottingham
+IP: 128.243.204.153
+SHA_256: b83560a4c603c8b3d1b2354a0548c99c1798e6c4507765a0c3adb8cf4b138963
+CN: 3198ee3b59715cd329128b7469b62270
+
+Organisation: The University of Nottingham
+IP: 128.243.226.238
+SHA_256: c72a5f4aa311d849b2f3917e5b3ae27b38115e244dbb0c456b23ba8c5a5d28b4
+CN: a8d8c6368fc389b8774d94f2a509145a
+
+Organisation: The University of Nottingham
+IP: 128.243.226.238
+SHA_256: c72a5f4aa311d849b2f3917e5b3ae27b38115e244dbb0c456b23ba8c5a5d28b4
+CN: a8d8c6368fc389b8774d94f2a509145a
+
+Organisation: The University of Nottingham
+IP: 128.243.204.73
+SHA_256: b0c32c1d3a10424a122f3094be66ff2f55d681356686fb2b5bfcd034b8714283
+CN: fa52b094bc5dd70f0c4aacda3252edbb
+
+Organisation: The University of Nottingham
+IP: 128.243.204.73
+SHA_256: b0c32c1d3a10424a122f3094be66ff2f55d681356686fb2b5bfcd034b8714283
+CN: fa52b094bc5dd70f0c4aacda3252edbb
+
+Organisation: The University of Nottingham
+IP: 128.243.226.77
+SHA_256: e3363fd33ff6815c48bd738137c1fe1402cb0e6b0b06a41b153f083dfc4a0add
+CN: 3cc6f834f18ef8817459a55823da0f33
+
+Organisation: The University of Nottingham
+IP: 128.243.204.162
+SHA_256: 2dc262141a2edb0e61e2f2639968f4e1ec78419cbe2c7f1a1782bb954cd18328
+CN: 1c01f42048164e4a2a197d7dfa127c79
+
+Organisation: The University of Nottingham
+IP: 128.243.204.162
+SHA_256: 2dc262141a2edb0e61e2f2639968f4e1ec78419cbe2c7f1a1782bb954cd18328
+CN: 1c01f42048164e4a2a197d7dfa127c79
+
+Organisation: Nottingham Trent University
+IP: 176.74.21.112
+SHA_256: c2558fca02a7eb46fc743baccad539709f7c78e3203dd943ac215e61c0673395
+CN: 56f0d11a0f9a1b925911708f1e0eddb9
+
+Organisation: Nottingham Trent University
+IP: 176.74.21.112
+SHA_256: c2558fca02a7eb46fc743baccad539709f7c78e3203dd943ac215e61c0673395
+CN: 56f0d11a0f9a1b925911708f1e0eddb9
