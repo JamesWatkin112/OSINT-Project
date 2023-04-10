@@ -10,15 +10,15 @@ BufferOverrun_API, BufferOverrun_URL = 'M5sa542kcyaBTKSLpY9xO186NG6U5HPJ3Pjwd0P8
 
 Toggles = {'Domain':
             {'Master': False,
-             'VirusTotal': True,
+             'VirusTotal': False,
              'SubBrute': False,
              'BufferOverrun': False},
-           'Email':
-            {'Master': True,
-             'Debounce':False}
+           'IP':
+            {'Master': False,
+             'IpInfo': False}
           }
 
-domain = None
+domain, IP_address = None, None
 report_file = 'report.txt'
 
 class ApiKeyError(Exception):
@@ -54,6 +54,17 @@ def BufferOverrun(domain):
     else:
         raise ApiKeyError('BufferOverrun')
 
+
+def IpInfo(address):
+    response = requests.get(f'https://ipinfo.io/{address}/geo')
+    if response.status_code == 200:
+        text = response.text
+        json_file = json.loads(text)
+        hostname, city, region, location = json_file['hostname'], json_file['city'], json_file['region'], json_file['loc']
+        return [hostname, city, region, location]
+    else:
+        raise ApiKeyError('IpInfo')
+
 def Domain_Report(domain):
     if Toggles['Domain']['Master']:
         if Toggles['Domain']['VirusTotal']:
@@ -63,7 +74,9 @@ def Domain_Report(domain):
             IPv4_certificates = BufferOverrun(domain) # IP[0] SHA_256[1] ORG[2] CN[3:-1]
 
         if Toggles['Domain']['SubBrute']:
-            os.system(f'{os.getcwd()}\windows\subbrute.exe {domain} -o subdomains.txt')
+            print('Subbrute running')
+            Subdomains = os.system(f'{os.getcwd()}\windows\subbrute.exe {domain} -o subdomains.txt')
+            print('Subbrute finished')
         
         # File writing
         with open(report_file, 'w') as file:
@@ -87,10 +100,17 @@ def Domain_Report(domain):
             for domain in subdomains:
                 file.write(domain+'\n')
 
-def Email_Report(address):
-    if Toggles['Email']['Master']:
-        pass
-            
-if domain == None:
-    domain = input('Enter a domain name: ')
-Domain_Report(domain)
+def IP_Report(address):
+    if Toggles['IP']['Master']:
+        if Toggles['IP']['IpInfo']:
+            info = IpInfo(address)
+            print(info)
+
+if Toggles['Domain']['Master']:    
+    if domain == None:
+        domain = input('Enter a domain name: ')
+    Domain_Report(domain)
+elif Toggles['IP']['Master']:    
+    if IP_address == None:
+        IP_address = input('Enter a IP address: ')
+    IP_Report(IP_address)
