@@ -3,6 +3,9 @@ import customtkinter
 import requests
 import json
 
+import zlib
+from base64 import b64decode
+
 customtkinter.set_appearance_mode("Light")
 customtkinter.set_default_color_theme("green")
 
@@ -19,8 +22,8 @@ class osint(customtkinter.CTk):
         self.geometry(f'{610}x{580}')
 
         self.firstClick = True
-        self.VirusTotal_API, self.VirusTotal_URL = '5c558621fc6c855ff36fe585a2e62526b5adcefe4e5b424f82eb204bdea8b7b9', 'https://www.virustotal.com/api/v3/domains/'
-        self.BufferOverrun_API, self.BufferOverrun_URL = 'M5sa542kcyaBTKSLpY9xO186NG6U5HPJ3Pjwd0P8', 'https://tls.bufferover.run/dns?q='
+        self.VirusTotal_API, self.VirusTotal_URL = f'{self.decrypt("NWM1NTg2MjFmYzZjODU1ZmYzNmZlNTg1YTJlNjI1MjZiNWFkY2VmZTRlNWI0MjRmODJlYjIwNGJkZWE4YjdiOQ==")}', 'https://www.virustotal.com/api/v3/domains/'
+        self.BufferOverrun_API, self.BufferOverrun_URL = f'{self.decrypt("TTVzYTU0MmtjeWFCVEtTTHBZOXhPMTg2Tkc2VTVIUEozUGp3ZDBQOA==")}', 'https://tls.bufferover.run/dns?q='
 
         self.sidebar = customtkinter.CTkFrame(self, width=170, height = 580, corner_radius=0)
         self.sidebar.place(x=0, y=0)
@@ -59,7 +62,7 @@ class osint(customtkinter.CTk):
         exit()
     
     def domain_report(self):
-        pass
+        print(self.VirusTotal('southwales.ac.uk'))
 
     def IP_report(self):
         pass
@@ -102,6 +105,11 @@ class osint(customtkinter.CTk):
             return (hostname, city, region, location)
         else:
             raise ApiKeyError('IpInfo')
+    
+    def decrypt(self, input):
+        string = bytes(input, 'utf-8')
+        return_value = b64decode(string).decode()
+        return return_value
 
 Program = osint()
 Program.mainloop()
