@@ -3,10 +3,12 @@ import customtkinter
 import requests
 import json
 
+import socket
+
 import zlib
 from base64 import b64decode
 
-customtkinter.set_appearance_mode("Light")
+customtkinter.set_appearance_mode("Dark")
 customtkinter.set_default_color_theme("green")
 
 class ApiKeyError(Exception):
@@ -37,14 +39,11 @@ class osint(customtkinter.CTk):
         self.IP_button = customtkinter.CTkButton(self.sidebar, command=self.IP_report, text="Enter IP")
         self.IP_button.place(x=15, y=100)
 
-        self.Name_button = customtkinter.CTkButton(self.sidebar, command=self.Name_report, text="Enter name")
-        self.Name_button.place(x=15, y=140)
-
         self.settings_button = customtkinter.CTkButton(self.sidebar, command=self.settings, text="Settings")
-        self.settings_button.place(x=15, y=180)
+        self.settings_button.place(x=15, y=140)
 
         self.quit_button = customtkinter.CTkButton(self.sidebar, command=self.quit, text="Quit")
-        self.quit_button.place(x=15, y=220)
+        self.quit_button.place(x=15, y=180)
 
     def settings(self):
         if self.firstClick:
@@ -66,9 +65,35 @@ class osint(customtkinter.CTk):
 
     def IP_report(self):
         pass
+
+    def Port_scanner(self, IP):
+        dialog = customtkinter.CTkInputDialog(text='Enter lower port range')
+        lower_range = int(dialog.get_input())
+        dialog = customtkinter.CTkInputDialog(text='Enter upper port range')
+        upper_range = int(dialog.get_input())
+        if lower_range > upper_range:
+            upper_range, lower_range = lower_range, upper_range
+        open_ports = []
+        for port in range(lower_range, upper_range+1):
+            res = self.scan_port(IP, port)
+            if res != None:
+                open_ports.append(port)
+        return open_ports
+            
     
-    def Name_report(self):
-        pass
+    def scan_port(self, IP, port):
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.settimeout(1)
+
+        try:
+            result = sock.connect_ex((IP, port))
+            if result == 0:
+                return port
+        except:
+            pass
+        finally:
+            # Close the socket
+            socket.close()
 
     def VirusTotal(self, domain):
         headers = {'accept': 'application/json',
