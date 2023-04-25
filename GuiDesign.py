@@ -64,13 +64,17 @@ class osint(customtkinter.CTk):
         print(self.VirusTotal('southwales.ac.uk'))
 
     def IP_report(self):
-        pass
+        print(self.Port_scanner('127.0.0.1'))
 
     def Port_scanner(self, IP):
-        dialog = customtkinter.CTkInputDialog(text='Enter lower port range')
-        lower_range = int(dialog.get_input())
-        dialog = customtkinter.CTkInputDialog(text='Enter upper port range')
-        upper_range = int(dialog.get_input())
+        #dialog = customtkinter.CTkInputDialog(text="type in a number: ")
+        #lower_range = int(dialog.get_input())
+        lower_range = int(input('Enter lower port range: '))
+        if lower_range > 65535: lower_range = 65535
+        #dialog = customtkinter.CTkInputDialog(text='Enter upper port range')
+        #upper_range = int(dialog.get_input())
+        upper_range = int(input('Enter upper port range: '))
+        if upper_range > 65535: upper_range = 65535
         if lower_range > upper_range:
             upper_range, lower_range = lower_range, upper_range
         open_ports = []
@@ -79,6 +83,7 @@ class osint(customtkinter.CTk):
             if res != None:
                 open_ports.append(port)
         return open_ports
+        
             
     
     def scan_port(self, IP, port):
@@ -93,7 +98,7 @@ class osint(customtkinter.CTk):
             pass
         finally:
             # Close the socket
-            socket.close()
+            sock.close()
 
     def VirusTotal(self, domain):
         headers = {'accept': 'application/json',
